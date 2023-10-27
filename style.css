@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,200;1,300&family=Monoton&family=Rubik&family=Ubuntu:ital,wght@0,400;0,500;0,700;1,300&display=swap');
+body {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Monoton', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Ubuntu', sans-serif;   
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.628),rgba(255, 0, 0, 0.772),yellow),url(WhatsApp\ Image\ 2023-10-26\ at\ 20.48.56_56b69fe9.jpg);
+  }
+  header {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  main {
+    padding: 50px;
+  }
+  .about {
+    margin-bottom: 50px;
+  }
+  .services {
+    margin-bottom: 50px;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    margin: 5px 0;
+  }
+  .testimonials {
+    margin-bottom: 50px;
+  }
+  .contact {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  i{
+    margin:7px;
+    color:black;
+    font-size: 30px;
+    display: flex;
+  }
+  a{
+    text-decoration:none ;
+    align-items: center;
+    color: black;
+  }
